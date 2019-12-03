@@ -198,7 +198,7 @@ class NGramModel(nn.Module):
 
 
 
-def train():
+def train()
     losses = []
     EMBEDDING_DIM=5
     CONTEXT_SIZE=2
