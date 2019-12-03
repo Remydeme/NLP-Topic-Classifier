@@ -1,0 +1,6 @@
+urls;category;path;scrolling_time;
+"https://www.youtube.com/results?search_query=présentation+entreprise&sp=EgIYAQ%253D%253D";"présentation entreprise";"ppentreprise_data.csv";300;
+"https://www.youtube.com/results?search_query=tutoriel&sp=EgIYAQ%253D%253D";"tutoriel";"./dataset/tutoriel_data.csv";300;
+"https://www.youtube.com/user/welcomejobs/videos";"presentation metier";"./dataset/tpresentation_metier_data.csv";300;
+"https://www.youtube.com/results?search_query=témoignage+client&sp=EgIYAQ%253D%253D";"temoignage client";"./dataset/ttemoignage_client_data.csv";300;
+"https://www.youtube.com/results?search_query=offre+d%27emploi&sp=EgIYAQ%253D%253D";"offre emploie";"./dataset/toffre_emploie_data.csv";300;
