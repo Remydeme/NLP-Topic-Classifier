@@ -235,7 +235,7 @@ class EasyScrapper:
 
 
 if __name__ == "__main__":
-    easy_scraper = EasyScrapper(url='https://www.youtube.com/results?search_query=présentation+produit&sp=EgIYAQ%253D%253D',
-                                category='presentation produit',
-                                path='data.csv',
+    easy_scraper = EasyScrapper(url='https://www.youtube.com/results?search_query=témoignage+client&sp=EgIYAQ%253D%253D',
+                                category='temoignage',
+                                path='./dataset/temoignage_client_data.csv',
                                 scrolling_time=400)
